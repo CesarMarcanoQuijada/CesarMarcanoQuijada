@@ -1,4 +1,4 @@
-### Hi there, I'm Cesar Marcano, Backend & Mobile Developer
+### Hi there, I'm Cesar Marcano, Backend & Mobile Developer 🧑🏻‍💻
 
 <!--
 **CesarMarcanoQuijada/CesarMarcanoQuijada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
